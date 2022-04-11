@@ -1,0 +1,43 @@
+{
+    "@@locale":"en",
+    "apiError": "Unable to complete action. Server error ({statusCode}):\n{message}",
+    "signupEmptyEmail": "Please enter your Email",
+    "entVEmain":"The format doesn't look right. Please check again",
+    "entPass":"Please enter a Password",
+    "passLength": "Password must be 8 characters long",
+    "no": "No",
+    "yes": "Yes",
+    "logout": "Logout",
+    "logoutAlertMessage":"Are you sure you want to log out?",
+    "howAreYouFeeling":"How are you Feeling?",
+    "next": "Next",
+    "previous": "Previous",
+    "addYourHappyPlace": "Add your happy place",
+    "whereAreYou" : "Where are you?",
+    "whatAreYouDoing": "What are you doing here?",
+    "complete": "Complete",
+    "myHappiness": "My Happiness",
+    "howDoYouFeelAboutThisPlace": "How do you Feel about this place?",
+    "my_posts": "My Posts",
+    "view_all_posts": "View all Posts",
+    "shared_with_me": "Shared with Me",
+    "we_keep_your_posts": "We keep your posts private unless you want to share. Who do you want to share with?",
+    "enter_first_name": "Enter first name",
+    "enter_last_name" : "Enter last name",
+    "enter_username": "Enter user name",
+    "enter_location": "Enter location",
+    "enter_bio": "Enter bio",
+    "enter_email": "Enter email",
+    "enter_post_caption": "Enter post caption",
+    "select_someone_first": "Select someone first",
+    "enter_current_password": "Enter current signup",
+    "enter_new_password": "Enter new password",
+    "enter_confirm_password": "Enter same password",
+    "explore": "Explore"
+
+
+
+
+
+
+}

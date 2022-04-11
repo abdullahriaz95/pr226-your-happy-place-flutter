@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "631964301426",
+    "firebase_url": "https://your-happy-place-app.firebaseio.com",
+    "project_id": "your-happy-place-app",
+    "storage_bucket": "your-happy-place-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631964301426:android:0793bcf7f56823f9e2eaeb",
+        "android_client_info": {
+          "package_name": "com.yhp.happy_place"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631964301426-2l5sfffiegulmuai10o4uo2ddicqbar0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6V35u_ZtIDLT10pyrhv4szBz51BsYyNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631964301426-2l5sfffiegulmuai10o4uo2ddicqbar0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
